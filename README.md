@@ -1,3 +1,3 @@
 # Olá, Mundo!
- Primeiro  repositório do curso de Git e GitHub
-TESTANDO FERRAMENTAS
+Primeiro  repositório do curso de Git e GitHub.
+TESTANDO FERRAMENTAS.
